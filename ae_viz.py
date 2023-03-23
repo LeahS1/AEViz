@@ -8,9 +8,6 @@ Original file is located at
 
 # Adverse Events Visualization
 
-This dataset is comprised of adverse events reported by sites participating in a clinical trial. This dataset only contains those subjects who have either completed or withdrawn from the clinical trial and reported an adverse event. This notebook was created for the purpose of demonstrating various visualizations of the data that may provide useful insight to data managers.
-
-### Importing the data
 """
 
 from google.colab import drive
